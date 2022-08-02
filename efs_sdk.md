@@ -121,7 +121,7 @@ All URIs are relative to *http://localhost*
 
 Class | Method | HTTP request | Description
 ------------ | ------------- | ------------- | -------------
-*Efs.InvoiceServiceApi* | [**invoiceServiceCreateInvoice**](docs/InvoiceServiceApi.md#invoiceServiceCreateInvoice) | **POST** /v1/invoice/create | 
+*Efs.InvoiceServiceApi* | [**invoiceServiceCreateInvoice**](docs/InvoiceServiceApi.md#invoiceServiceCreateInvoice) | **POST** /api/v1/invoice/create | 
 *Efs.InvoiceServiceApi* | [**invoiceServicePing**](docs/InvoiceServiceApi.md#invoiceServicePing) | **GET** /v1/ping | 
 
 
